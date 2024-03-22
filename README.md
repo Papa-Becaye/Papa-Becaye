@@ -32,6 +32,6 @@
 ## Level
 [![trophy](https://github-profile-trophy.vercel.app/?username=Papa-Becaye&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Quelques stats
+## Statistics
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Papa-Becaye)](https://git.io/streak-stats)
