@@ -1,4 +1,4 @@
-H7### Hello 👋
+### Hello 👋
 <!-- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Software engineering at CDPS Dakartech
 - 💬 Ask me about HTML, CSS, JavaScript, C#, C++, C and a little bit of java
