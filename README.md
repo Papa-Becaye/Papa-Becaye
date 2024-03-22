@@ -40,4 +40,4 @@
 
 ## Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Papa-Becaye)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Papa-Becaye)](https://github.com/Papa-Becaye)
