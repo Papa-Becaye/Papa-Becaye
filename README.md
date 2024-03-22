@@ -5,14 +5,14 @@
 - 📫 you can reach me at gmail: **papabecayefall@gmail.com**
 - ⚡ Fun fact: coding with hidden bug 😄
 
-## Me retrouver
+## Find me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Papa-Becaye/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/papa-becaye/)
 [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook&logoColor=0A66C2)](https://www.facebook.com/bkaygraph)
 
 
-## Languages et outils
+## Languages and Tools
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![Tailwind](https://img.shields.io/badge/-Tailwindcss-000?&logo=Tailwind&logoColor=4479A1)](https://tailwindui.com/)
@@ -27,7 +27,7 @@
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 
-## En apprentissage / perfectionnement
+## In learning / improvement
 
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
