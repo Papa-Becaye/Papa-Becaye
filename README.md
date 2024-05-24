@@ -39,10 +39,6 @@
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 
-
-## Level
-[![trophy](https://github-profile-trophy.vercel.app/?username=Papa-Becaye&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Statistics
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Papa-Becaye)](https://github.com/Papa-Becaye)
