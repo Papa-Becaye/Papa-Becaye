@@ -40,5 +40,4 @@
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 
 ## Statistics
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Papa-Becaye)](https://github.com/Papa-Becaye)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Papa-Becaye&theme=vue-dark)](https://github.com/Papa-Becaye)
