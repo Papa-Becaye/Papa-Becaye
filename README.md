@@ -19,14 +19,15 @@
 [![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS&logoColor=4479A1)](https://tailwindui.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![Dotnet](https://img.shields.io/badge/-Dotnet-000?&logo=Dotnet&logoColor=4479A1)](https://dotnet.microsoft.com/)
+[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=4FC08D)](https://react.dev/)
 
 ### Back-end
-[![Csharp](https://img.shields.io/badge/-Csharp-000?&logo=Csharp&logoColor=4479A1)](https://learn.microsoft.com/fr-fr/dotnet/csharp/)
+[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=4479A1)](https://nodejs.org/)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus&logoColor=4479A1)](https://learn.microsoft.com/fr-fr/cpp/cpp/)
 [![C](https://img.shields.io/badge/-C-000?&logo=C&logoColor=4479A1)](https://learn.microsoft.com/fr-fr/cpp/c-language/)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=4479A1)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
+[![Dotnet](https://img.shields.io/badge/-Dotnet-000?&logo=Dotnet&logoColor=4479A1)](https://dotnet.microsoft.com/)
 
 
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
@@ -35,9 +36,9 @@
 ## In learning / improvement
 
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
+[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=1572B6)](https://react.dev/)
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 
 ## Statistics
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Papa-Becaye&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Papa-Becaye&theme=vue-dark)](https://github.com/Papa-Becaye)
