@@ -8,7 +8,7 @@
 ## Find me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Papa-Becaye/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/papa-becaye/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=invision&logoColor=0A66C2)](https://www.linkedin.com/in/papa-becaye/)
 [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook&logoColor=0A66C2)](https://www.facebook.com/bkaygraph)
 
 
