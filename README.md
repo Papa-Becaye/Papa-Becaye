@@ -41,4 +41,3 @@
 
 ## Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Papa-Becaye&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Papa-Becaye&theme=vue-dark)](https://github.com/Papa-Becaye)
